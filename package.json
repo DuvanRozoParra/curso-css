@@ -1,0 +1,19 @@
+{
+  "name": "curso-css",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test:start": "vitest",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0",
+    "vitest": "^3.1.1"
+  }
+}
